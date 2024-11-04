@@ -3,3 +3,6 @@ Workflow for Python using VSC
 2) navigate to myfolder name iot: cd iot
 3) create venv: python3.12 -m venv venv
 4) Activate venv: source venv/bin/activate
+5) Install Packages: pip install numpy pandas matplotlib
+6) Deactivate: deactivate
+7) Remove Directory: rm -rf iot
