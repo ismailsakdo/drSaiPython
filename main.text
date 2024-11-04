@@ -1,0 +1,5 @@
+Workflow for Python using VSC
+1) Create folder: mkdir iot
+2) navigate to myfolder name iot: cd iot
+3) create venv: python3.12 -m venv venv
+4) Activate venv: source venv/bin/activate
